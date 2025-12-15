@@ -1,3 +1,6 @@
 1: This is the beginning of a simple story.
-2: test1.
+<<<<<<< HEAD
+2: test1 and test2. (This line was updated by both Alice and Bob)
+=======
+>>>>>>> origin/main
 3: This is the end of the story.
