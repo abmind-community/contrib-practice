@@ -1,3 +1,3 @@
 1: This is the beginning of a simple story.
-2: This is the middle of a simple story different version.
+2: This is the middle of this story.
 3: This is the end of the story.
