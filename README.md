@@ -58,6 +58,14 @@ When working on a task:
 
 Following these practices now will prepare you to contribute to Mesa later.
 
+## Pull request policy
+
+To keep this repository clean and focused for new cohorts:
+
+-	Task 01 PR (adding yourself to CONTRIBUTORS.md) is the only PR that will be merged into this upstream repository.
+-	Tasks 02 and 03 PRs are for practice and review (including updating an existing PR). They will be closed without merging after some time.
+-	Tasks 04 and 05 PRs (merge conflict) should be opened within your own fork (feature branch -> your fork’s main). Do not open these PRs against the upstream repository.
+
 ## Tasks overview
 
 A quick summary of the available tasks:
