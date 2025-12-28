@@ -13,8 +13,7 @@ This file lists the people who have completed the practice tasks. To add yoursel
 Add your own entry below this comment and open a pull request via the instructions in `tasks/01-add-yourself.md`.
 
 - [februarysea](https://github.com/februarysea)
-- [jingmiao7](https://github.com/jingmiao7)
-- [LeonChen7](https://github.com/LeonChen7)
 - [LuHaotian-UCL](https://github.com/LuHaotian-UCL)
 - [peter-kinger](https://github.com/peter-kinger)
 - [jingmiao7](https://github.com/jingmiao7)
+- [LeonChen7](https://github.com/LeonChen7)
