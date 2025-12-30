@@ -1,4 +1,6 @@
-from src.math_utils import add
+import pytest
+
+from src.math_utils import add, divide
 
 
 def test_add() -> None:
@@ -13,9 +15,12 @@ def test_add() -> None:
 
 def test_divide() -> None:
     """Test the ``divide`` function."""
-    # TODO: replace this placeholder with real assertions
+    assert divide(2, 4) == 0.5
+    assert divide(6, -3) == -2
+    assert divide(0, -3) == 0
 
 
 def test_divide_by_zero() -> None:
     """Test the ``divide`` function with zero denominator."""
-    # TODO: replace this placeholder with real assertions
+    with pytest.raises(ValueError):
+        divide(8, 0)
